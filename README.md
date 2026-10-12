@@ -57,8 +57,6 @@ Um **clone open source do NotebookLM, focado em privacidade e agnóstico de mode
 | **Telegram Vinted Scraper** | Bot de Telegram que pesquisa no Vinted a pedido (`/vinted <termo>`) e responde com foto, título, preço, marca, estado e link direto. Restrito a IDs de utilizadores autorizados, com registo de atividade | Python · python-telegram-bot · vinted-scraper · httpx | [repo](https://github.com/Ybt2/telegram_vinted_scrapper) |
 | **number_recognition** | Reconhecedor de dígitos manuscritos: uma CNN treinada com o MNIST que lê dígitos a partir de imagens externas, com uma janela de desenho ao vivo | Python · TensorFlow · OpenCV | [repo](https://github.com/Ybt2/number_recognition) |
 
-Mais no meu GitHub principal  **[github.com/Ybt2](https://github.com/Ybt2)**
-
 ---
 
 ## Tecnologias com que trabalho
