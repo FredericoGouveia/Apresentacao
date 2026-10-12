@@ -13,7 +13,7 @@ CTESP em Desenvolvimento Web e Multimédia @ IPCA · antes, Gestão e Programaç
 
 ---
 
-## Olá, sou o Fred 👋
+## Olá, sou o Fred
 
 Sou da zona de Braga de momento ando no **CTESP de Desenvolvimento Web e Multimédia no UPCA**, depois de acabar o curso profissional de **Gestão e Programação de Sistemas Informáticos na OFICINA - Escola Profissional** (média final de 17/20). Pelo caminho fiz dois estágios.
 
@@ -48,8 +48,6 @@ Um **clone open source do NotebookLM, focado em privacidade e agnóstico de mode
 
 **Stack:** Vue 3 + Pinia + Tailwind · Node.js 22 + Express 5 + LangChain.js · MySQL 8 · Qdrant · Ollama (`bge-m3` + qualquer modelo de chat/visão) · HuggingFace Transformers · JWT · Docker Compose · Jest + Supertest
 
-** [github.com/Ybt2/ReCallBook](https://github.com/Ybt2/ReCallBook)**
-
 ---
 
 ## Outras coisas que construí
@@ -63,7 +61,7 @@ Mais no meu GitHub principal  **[github.com/Ybt2](https://github.com/Ybt2)**
 
 ---
 
-## 🛠 Tecnologias com que trabalho
+## Tecnologias com que trabalho
 
 **Linguagens**
 
